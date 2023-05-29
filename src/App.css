@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.titulo{
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  padding: 2rem;
+  height: 100%;
+  width: 100%;
+  font-family: Comfortaa;
+}
+
+.subtitulo{
+
+  color: #fff;
+  text-align: center;
+  align-items: center;
+}
+
+.home{
+  margin-top: 15px;
+  text-align: center;
+}
+.card{
+  align-items: center;
+  justify-content: space-around;
+  margin: 20px;
+  border-left: 0;
+}

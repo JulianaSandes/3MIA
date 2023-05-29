@@ -6,18 +6,17 @@ import Cards from "../components/Cards";
 function Contato() {
   return (
     <div>
+      <div>
       <NavProjeto />
-      <div className="contato">
-        <h1>VEJA NOSSOS TÊNIS</h1>
-        <p>Presenteie quem você ama</p>
-      </div>
-      <div className="carrossel-group">
-        <Carrossel />
-      </div>
-      <div className="card-group">
-        <Cards />
-        <Cards />
-      </div>
+        <div className="sobre">
+        <h1>Entre em contato com a gente</h1>
+        </div>
+        <div>
+          <p>
+          colocar icons           
+          </p>
+        </div>
+    </div>
     </div>
   );
 }

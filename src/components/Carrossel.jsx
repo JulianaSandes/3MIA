@@ -10,7 +10,7 @@ function Carrossel() {
           alt="computador1"
         />
         <Carousel.Caption>
-          <h3>Venha ver nossos produtos</h3>
+          <h3 class='text-carrosel'>Conheça os nossos produtos</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -21,6 +21,7 @@ function Carrossel() {
         />
 
         <Carousel.Caption>
+        <h3 class='text-carrosel'>Conheça os nossos produtos</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -31,6 +32,7 @@ function Carrossel() {
         />
 
         <Carousel.Caption>
+        <h3 class='text-carrosel'>Conheça os nossos produtos</h3>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

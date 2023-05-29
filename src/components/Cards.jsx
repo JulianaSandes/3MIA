@@ -12,7 +12,7 @@ function Cards() {
         <Card.Text>
         INTEL I5-12400F, GEFORCE GTX 1650 4GB, 8GB DDR4, SSD 240GB
         </Card.Text>
-        <Button variant="primary">Comprar</Button>
+        <Button variant="danger">Comprar</Button>
       </Card.Body>
     </Card>
   );

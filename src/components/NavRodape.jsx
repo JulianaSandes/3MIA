@@ -3,12 +3,12 @@ import Navbar from 'react-bootstrap/Navbar';
 
 function NavRodape() {
   return (
-    <Container>
-      <Navbar variant="light" bg="dark">
-        <Container>
-          <Navbar.Brand href="#">Ac feita em aula</Navbar.Brand>
-          
-        </Container>
+    <Container variant="dark" bg="dark">
+      <Navbar variant="dark" bg="dark">
+          <Navbar.Brand href="/">Clique e volte ao topo</Navbar.Brand>
+          <h1 class="text-rodape">Juliana Barbosa Sandes-3°Mia</h1>
+          <h2 class="text-rodape">Trabalho realizado durante a aula</h2>
+          <p class="text">© 2023 Copyright: Juliana Sandes</p>
       </Navbar>
     </Container>
   );

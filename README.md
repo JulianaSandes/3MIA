@@ -1,66 +1,17 @@
-# 3MIA
-Repositório de projetos turma 3MIA FIAP
+# AC Loja informática - Juliana Sandes
+<p>
+<img src="/src/imagens/PaginaHome.png" alt="Página - home" />
+</p>
 
-## Abrir um repositório:
-~~~comand 
-git clone (link) 
-~~~
-~~~comand
-cd 3MIA
-~~~
-~~~comand
-cd react
-~~~
-~~~comand
-cd revBoot
-~~~
-~~~comand
-code .
-~~~
-## Terminal
-~~~comand
-npm i 
-~~~
-~~~comand
-npm run dev
-~~~
 
-## Criar um repositório:
-~~~comand
-cd clone (link)
-~~~
-~~~comand
-cd 3MIA
-~~~
-~~~comand
-mkdir react 
-~~~
-~~~comand
-npm create vite@latest tevBoot-- --template react
-~~~
-~~~comand
-cd revBoot
-~~~
-~~~comand
-npm i
-~~~
-~~~comand
-npm run dev
-~~~
+# 💻👩‍💻 Site Loja informática
+- Desenvolvido durante a aula de INW
+- Informações não são verdadeiras
+- Cada aluno teve um tema
 
-## Adicionar:
-~~~comand
-git add .
-~~~
-~~~comand
-git status
-~~~
-~~~comand
-git commit -m "Descrição"
-~~~
-~~~comand
-git push origin main
-~~~
+#
+
+![ezgif com-gif-maker](https://github.com/JulianaSandes/3MIA/assets/84139776/e937c6f6-1782-42e5-8402-dcccaaa5f19e)
 
 
  
